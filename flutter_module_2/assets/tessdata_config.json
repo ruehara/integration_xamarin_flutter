@@ -1,0 +1,11 @@
+{
+  "tessdata": "assets/tessdata/",
+  "languages": {
+    "eng": "assets/tessdata/eng.traineddata",
+    "tha": "assets/tessdata/tha.traineddata"
+  },
+  "whitelist": "",
+  "blacklist": "",
+  "psm": "6",
+  "oem": "3"
+}

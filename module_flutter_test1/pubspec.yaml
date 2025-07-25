@@ -1,0 +1,29 @@
+name: module_flutter_test1
+description: "A new Flutter module project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.2
+  flutter_tesseract_ocr: ^0.4.29
+  image: ^4.5.4
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+  share_plus: ^11.0.0
+  http: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  module:
+    androidX: true
+    androidPackage: com.example.module_flutter_test1
