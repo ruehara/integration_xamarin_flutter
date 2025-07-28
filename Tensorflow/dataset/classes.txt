@@ -1,0 +1,3 @@
+card
+national_id
+religion

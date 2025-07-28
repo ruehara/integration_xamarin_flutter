@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "card"
+    },
+    {
+      "id": 1,
+      "name": "national_id"
+    },
+    {
+      "id": 2,
+      "name": "religion"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
